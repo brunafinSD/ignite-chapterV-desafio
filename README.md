@@ -6,11 +6,13 @@ A interface possuí um menu navegável com as opções de categorias.
 Selecionando a categoria, os filmes respectivos a ela aparecem no dashboard.
 Esse projeto foi desenvolvido durante o Ignite 2021 na trilha de ReactJS para praticar a funcionalidade de componentização.
 
+Foram adicionadas algumas estratégias de otimização como useCallback e memo
+
 ## Como executar
 Clone o projeto e acesse a pasta do mesmo.
 
-- $ git clone https://github.com/brunafinSD/ignite-chapterI-desafio-02.git
-- $ cd ignite-chapterI-desafio-02
+- $ git clone https://github.com/brunafinSD/ignite-chapterV-desafio.git
+- $ cd ignite-chapterV-desafio
 
 Para iniciá-lo, siga os passos abaixo:
 
